@@ -1,0 +1,12 @@
+{
+  "name": "typescript and node js 45 assignment",
+  "version": "1.0.0",
+  "description": " in this typescript file we solve all 45 assignment of governor sindh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mishal Nadeem (roll no 00258631)",
+  "license": "ISC"
+}
